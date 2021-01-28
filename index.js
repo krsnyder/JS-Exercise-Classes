@@ -150,7 +150,7 @@ class Instructor extends Lambdasian {
  }
   /*
     TASK 5
-      - Write a Student class extending Lambdasian.
+      - Write a Student class extending Lambdasian.    
       - Its constructor takes a single argument -  an object with the following keys:
           + All the keys used to initialize instances of Lambdasian.
           + `previousBackground` i.e. what the Student used to do before Lambda School
